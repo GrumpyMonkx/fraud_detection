@@ -13,5 +13,5 @@ Based on this assignment, you have to answer the following questions:<br>
 ● Can we predict the likelihood of fraud for an incoming claim, based on past data?<br>
 ● What insights can be drawn from the model that can help in improving the fraud detection process?
 
-
+Building a Machine Learning Model for Fraud Detection
 
